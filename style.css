@@ -1,0 +1,1075 @@
+.www-chanel-com-by {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.www-chanel-com-by .div {
+  background-color: var(--wwwchanelcomnero);
+  width: 1920px;
+  height: 24833.28px;
+  position: relative;
+}
+
+.www-chanel-com-by .footer {
+  position: absolute;
+  width: 1920px;
+  height: 294px;
+  top: 23501px;
+  left: 0;
+  background-color: var(--wwwchanelcomnero);
+}
+
+.www-chanel-com-by .overlap {
+  height: 23501px;
+  top: 0;
+  position: absolute;
+  width: 1920px;
+  left: 0;
+}
+
+.www-chanel-com-by .main {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  min-height: 940px;
+  align-items: flex-start;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--wwwchanelcomnero);
+}
+
+.www-chanel-com-by .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-chanel-com-by .div-group {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 22686.17px;
+  z-index: 1;
+}
+
+.www-chanel-com-by .div-3 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 1080px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-chanel-com-by .div-fs {
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-chanel-com-by .div-fs-component {
+  width: 1920px;
+  justify-content: center;
+  flex: 1;
+  flex-grow: 1;
+  background-color: var(--wwwchanelcomnero);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-chanel-com-by .picture {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-image: url(./img/picture.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .div-group-aedd {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 0px 20px;
+  position: absolute;
+  top: 502px;
+  left: 0;
+}
+
+.www-chanel-com-by .p-fs-text-content {
+  align-items: center;
+  padding: 0px 855.98px 0.5px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomnero);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .div-wrapper {
+  padding: 0px 760.05px 0px 760.03px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomnero);
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 45px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .div-group-2 {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  gap: 30.72px;
+  position: absolute;
+  top: 911px;
+  left: 0;
+}
+
+.www-chanel-com-by .div-button {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 874.22px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .span-fs-button {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 19px 26px 19px 41px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwchanelcomnero);
+  border: 1px solid;
+  border-color: var(--wwwchanelcomnero);
+}
+
+.www-chanel-com-by .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomblack);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 16px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .photographs-by-inez-wrapper {
+  padding: 0px 805.74px 0.5px 805.73px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .overlap-group {
+  height: 19992px;
+  top: 1080px;
+  position: absolute;
+  width: 1920px;
+  left: 0;
+}
+
+.www-chanel-com-by .div-group-fbba {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  padding: 253.44px 0px 234.23px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--wwwchanelcomblack);
+}
+
+.www-chanel-com-by .div-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 720px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .p-fs-text-content-wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 480px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .lensed-by-inez-wrapper {
+  padding: 0px 7.75px 0.5px 7.73px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .lensed-by-inez {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: var(--wwwchanelcomnero);
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 16px;
+}
+
+.www-chanel-com-by .div-group-dba {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 19440px;
+  align-items: flex-start;
+  padding: 0px 0px 18360px;
+  position: absolute;
+  top: 552px;
+  left: 0;
+  background-color: var(--wwwchanelcomblack);
+}
+
+.www-chanel-com-by .div-group-3 {
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-chanel-com-by .picture-wrapper {
+  width: 1920px;
+  align-items: flex-start;
+  justify-content: center;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.www-chanel-com-by .picture-2 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-13.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-3 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-12.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-4 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-11.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-5 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-10.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-6 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-9.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-7 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-8.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-8 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-7.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-9 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-6.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-10 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-5.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-11 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-4.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .picture-12 {
+  flex: 1;
+  flex-grow: 1;
+  background-image: url(./img/picture-3.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .div-group-aebb {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  padding: 0px 960px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-chanel-com-by .div-group-defe {
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0px;
+  padding: 419.03px 14.41px 419.03px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.www-chanel-com-by .div-image {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 0px 177.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-fs-component-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-fs-component-2 {
+  width: 768px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-chanel-com-by .picture-13 {
+  height: 118.83px;
+  background-image: url(./img/picture-2.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .div-group-dc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 69.11px 0px 0px 177.59px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-button-ddca {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 282.54px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .link {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 19px 26px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwchanelcomnero);
+  border: 1px solid;
+  border-color: var(--wwwchanelcomnero);
+}
+
+.www-chanel-com-by .link-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 768px;
+  align-items: center;
+  padding: 0px 282.54px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-chanel-com-by .div-group-fcbda {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: flex-start;
+  gap: 96px;
+  padding: 120px 0px;
+  position: absolute;
+  top: 21072px;
+  left: 0;
+  background-color: var(--wwwchanelcomnero);
+}
+
+.www-chanel-com-by .p-fs-text-content-2 {
+  padding: 0px 663.11px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .p {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomcod-gray);
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 23px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .div-group-e {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-button-fff {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 802.06px 0px 802.05px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .link-2 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 0.5px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwchanelcomnero);
+}
+
+.www-chanel-com-by .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomalto);
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .div-button-efb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 854.99px 0px 854.98px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-button-dde {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 895.49px 0px 895.48px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-button-bd {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 771.26px 0px 771.27px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-button-dcd {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 733.56px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-button-cf {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 758px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-group-ecb {
+  display: flex;
+  flex-direction: column;
+  width: 1613px;
+  align-items: flex-start;
+  position: absolute;
+  top: 21959px;
+  left: 154px;
+}
+
+.www-chanel-com-by .div-fs-component-3 {
+  width: 1612.8px;
+  flex: 0 0 auto;
+  background-color: var(--wwwchanelcomnero);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-chanel-com-by .picture-14 {
+  height: 631.5px;
+  background-image: url(./img/picture-1.png);
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .div-group-ecda {
+  display: flex;
+  flex-direction: column;
+  width: 1613px;
+  align-items: center;
+  gap: 30.24px;
+  padding: 0px 0px 0px 2.27e-13px;
+  position: absolute;
+  top: 257px;
+  left: 0;
+}
+
+.www-chanel-com-by .p-fs-text-content-3 {
+  padding: 0px 640.97px 0.5px 640.96px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .text-wrapper-5 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomnero);
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .div-button-bcae {
+  display: flex;
+  flex-direction: column;
+  width: 1612.8px;
+  align-items: center;
+  padding: 0px 744.01px 0px 744px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomcod-gray);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .div-fs-oab-push {
+  align-items: center;
+  justify-content: center;
+  padding: 120px 429.53px 120px 429.52px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 0;
+  background-color: var(--wwwchanelcomalabaster);
+  display: flex;
+  position: relative;
+}
+
+.www-chanel-com-by .presentation-fs-oab {
+  display: flex;
+  flex-direction: column;
+  width: 511.86px;
+  align-items: center;
+  position: relative;
+}
+
+.www-chanel-com-by .picture-FSH-wrapper {
+  width: 511.86px;
+  flex: 0 0 auto;
+  background-color: var(--wwwchanelcomalabaster);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+
+.www-chanel-com-by .picture-FSH {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 575.11px;
+  background-image: url(./img/picture-fsh-1637250540831-microsoftteamsimage100-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.www-chanel-com-by .div-fs-oab-push-text {
+  flex-direction: column;
+  width: 549.09px;
+  align-items: flex-start;
+  padding: 0px 0px 0px 37.23px;
+  margin-left: 0px;
+  display: flex;
+  position: relative;
+}
+
+.www-chanel-com-by .div-fs-oab-push-text-2 {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 0.01px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  display: flex;
+  position: relative;
+}
+
+.www-chanel-com-by .heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 55.84px 0px 55.83px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomcod-gray);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .p-fs-oab-push {
+  align-items: flex-start;
+  padding: 12.28px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .our-creations-are-wrapper {
+  align-items: center;
+  padding: 0px 17.24px 0px 17.22px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .our-creations-are {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  color: var(--wwwchanelcomboulder);
+  font-size: 13.1px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 18px;
+}
+
+.www-chanel-com-by .p-fs-button-margin {
+  align-items: flex-start;
+  padding: 47.95px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .p-fs-button {
+  align-items: center;
+  padding: 0px 146.04px 0px 146.05px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .link-3 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 19px 26px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--wwwchanelcomblack);
+  border: 1px solid;
+  border-color: var(--wwwchanelcomblack);
+}
+
+.www-chanel-com-by .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomnero);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .p-fs-button-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3.5px 194.86px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .link-4 {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px 0px 1px;
+  position: relative;
+  flex: 0 0 auto;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-color: var(--wwwchanelcomblack);
+}
+
+.www-chanel-com-by .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: var(--wwwchanelcomblack);
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  white-space: nowrap;
+}
+
+.www-chanel-com-by .div-header-level-one {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  align-items: center;
+  padding: 8px 134.35px 2px 134.34px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.www-chanel-com-by .div-nav {
+  display: flex;
+  max-width: 1342px;
+  width: 1342px;
+  min-height: 75px;
+  align-items: flex-start;
+  padding: 0px 154.65px 0px 730.16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .div-nav-center {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 8px 20px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .img {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .list {
+  display: flex;
+  min-width: 150px;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 5.5px 0px 5.5px 467.5px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.www-chanel-com-by .item {
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -309.31px;
+}
+
+.www-chanel-com-by .img-wrapper {
+  margin-left: -273.31px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .link-5 {
+  position: relative;
+  align-self: stretch;
+  min-width: 36px;
+  flex: 0 0 auto;
+}
+
+.www-chanel-com-by .item-2 {
+  margin-left: -237.31px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
